@@ -20,7 +20,7 @@ The authors of the CeCILL-C (for Ce[a] C[nrs] I[nria] L[logiciel] L[ibre])
 license are:
 
 Commissariat à l'Energie Atomique - CEA, a public scientific, technical
-and industrial research establishment, having its principal place of
+and industrial research establishment, having its principal place of 
 business at 25 rue Leblanc, immeuble Le Ponant D, 75015 Paris, France.
 
 Centre National de la Recherche Scientifique - CNRS, a public scientific
@@ -36,11 +36,11 @@ principal place of business at Domaine de Voluceau, Rocquencourt, BP
     Preamble
 
 The purpose of this Free Software license agreement is to grant users the
-right to modify and re-use the software governed by this license.
+right to modify and re-use the software governed by this license. 
 
 The exercising of this right is conditional on the obligation to make
 available to the community the modifications made to the source code of the
-software so as to contribute to its evolution.
+software so as to contribute to its evolution. 
 
 In consideration of access to the source code and the rights to copy,
 modify and redistribute granted by the license, users are provided only
@@ -93,22 +93,22 @@ Software.
 
 Licensee: means the Software user(s) having accepted the Agreement.
 
-Contributor: means a Licensee having made at least one Integrated
+Contributor: means a Licensee having made at least one Integrated 
 Contribution.
 
 Licensor: means the Holder, or any other individual or legal entity, who
 distributes the Software under the Agreement.
 
 Integrated Contribution: means any or all modifications, corrections,
-translations, adaptations and/or new functions integrated into the Source
+translations, adaptations and/or new functions integrated into the Source 
 Code by any or all Contributors.
 
 Related Module: means a set of sources files including their documentation
 that, without modification to the Source Code, enables supplementary
-functions or services in addition to those offered by the Software.
+functions or services in addition to those offered by the Software. 
 
 Derivative Software: means any combination of the Software, modified or not,
-and of a Related Module.
+and of a Related Module.  
 
 Parties: mean both the Licensee and the Licensor.
 
@@ -119,7 +119,7 @@ These expressions may be used both in singular and plural form.
 
 The purpose of the Agreement is the grant by the Licensor to the
 Licensee of a non-exclusive, transferable and worldwide license for the
-Software as set forth in Article 5 hereinafter for the whole term of the
+Software as set forth in Article 5 hereinafter for the whole term of the 
 protection granted by the rights over said Software.
 
 
@@ -139,7 +139,7 @@ following events:
 characteristics of the Software, to the limited warranty, and to the
 fact that its use is restricted to experienced users has been provided
 to the Licensee prior to its acceptance as set forth in Article 3.1
-hereinabove, and the Licensee hereby acknowledges that it has read and
+hereinabove, and the Licensee hereby acknowledges that it has read and 
 understood it.
 
 
@@ -193,10 +193,10 @@ that this comprises:
 
       5.2 RIGHT OF MODIFICATION
 
-The right of modification includes the right to translate, adapt, arrange,
-or make any or all modifications to the Software, and the right to
-reproduce the resulting Software. It includes, in particular, the right
-to create a Derivative Software.
+The right of modification includes the right to translate, adapt, arrange, 
+or make any or all modifications to the Software, and the right to 
+reproduce the resulting Software. It includes, in particular, the right 
+to create a Derivative Software. 
 
 The Licensee is authorized to make any or all modification to the
 Software provided that it includes an explicit notice that it is the
@@ -229,8 +229,8 @@ complies with all the provisions of the Agreement and is accompanied by:
 
 and that, in the event that only the Object Code of the Software is
 redistributed, the Licensee allows effective access to the full Source Code
-of the Software at a minimum during the entire period of its distribution
-of the Software, it being understood that the additional cost of acquiring
+of the Software at a minimum during the entire period of its distribution 
+of the Software, it being understood that the additional cost of acquiring 
 the Source Code shall not exceed the cost of transferring the data.
 
 
@@ -238,22 +238,22 @@ the Source Code shall not exceed the cost of transferring the data.
 
 When the Licensee makes an Integrated Contribution to the Software, the terms
 and conditions for the distribution of the resulting Modified Software become
-subject to all the provisions of this Agreement.
+subject to all the provisions of this Agreement. 
 
 The Licensee is authorized to distribute the Modified Software, in source
 code or object code form, provided that said distribution complies with all
-the provisions of the Agreement and is accompanied by:
+the provisions of the Agreement and is accompanied by: 
 
    1. a copy of the Agreement,
    2. a notice relating to the limitation of both the Licensor's warranty and
-      liability as set forth in Articles 8 and 9,
+      liability as set forth in Articles 8 and 9, 
 
 and that, in the event that only the object code of the Modified Software is
 redistributed, the Licensee allows effective access to the full source code
 of the Modified Software at a minimum during the entire period of its
 distribution of the Modified Software, it being understood that the
 additional cost of acquiring the source code shall not exceed the cost of
-transferring the data.
+transferring the data. 
 
         5.3.3 DISTRIBUTION OF DERIVATIVE SOFTWARE
 
@@ -262,26 +262,26 @@ be distributed under a license agreement other than this Agreement, subject
 to compliance with the requirement to include a notice concerning the rights
 over the Software as defined in Article 6.4. In the event the creation of the
 Derivative Software required modification of the Source Code, the Licensee
-undertakes that:
+undertakes that: 
 
    1. the resulting Modified Software will be governed by this Agreement,
    2. the Integrated Contributions in the resulting Modified Software will be
-      clearly identified and documented,
+      clearly identified and documented, 
    3. the Licensee will allow effective access to the source code of the
       Modified Software, at a minimum during the entire period of
       distribution of the Derivative Software, such that such modifications
       may be carried over in a subsequent version of the Software; it being
       understood that the additional cost of purchasing the source code of
       the Modified Software shall not exceed the cost of transferring the
-      data.
+      data.  
 
 
         5.3.4 COMPATIBILITY WITH THE CeCILL LICENSE
-
+ 
 When a Modified Software contains an Integrated Contribution subject to the
 CeCill license agreement, or when a Derivative Software contains a Related
 Module subject to the CeCill license agreement, the provisions set forth in
-the third item of Article 6.4 are optional.
+the third item of Article 6.4 are optional. 
 
 
     Article 6 - INTELLECTUAL PROPERTY
@@ -302,8 +302,8 @@ least by the current license, for the duration set forth in Article 4.2.
       6.2 OVER THE INTEGRATED CONTRIBUTIONS
 
 A Licensee who develops an Integrated Contribution is the owner of the
-intellectual property rights over this Contribution as defined by
-applicable law.
+intellectual property rights over this Contribution as defined by 
+applicable law. 
 
 
       6.3 OVER THE RELATED MODULES
@@ -322,10 +322,10 @@ The Licensee expressly undertakes:
       notices attached to the Software;
    2. to reproduce said notices, in an identical manner, in the copies
       of the Software modified or not;
-   3. to ensure that use of the Software, its intellectual property
-      notices and the fact that it is governed by the Agreement is
-      indicated in a text that is easily accessible, specifically from
-      the interface of any Derivative Software.
+   3. to ensure that use of the Software, its intellectual property 
+      notices and the fact that it is governed by the Agreement is 
+      indicated in a text that is easily accessible, specifically from 
+      the interface of any Derivative Software. 
 
 The Licensee undertakes not to directly or indirectly infringe the
 intellectual property rights of the Holder and/or Contributors on the
@@ -397,7 +397,7 @@ rights set forth in Article 5).
 9.3 The Licensee acknowledges that the Software is supplied "as is" by
 the Licensor without any other express or tacit warranty, other than
 that provided for in Article 9.2 and, in particular, without any warranty
-as to its commercial value, its secured, safe, innovative or relevant
+as to its commercial value, its secured, safe, innovative or relevant 
 nature.
 
 Specifically, the Licensor does not warrant that the Software is free
