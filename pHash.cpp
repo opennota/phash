@@ -21,14 +21,6 @@ ph_dct_imagehash_wrapper(const char *file) {
 	return hash;
 }
 
-// Magic; without it pHash fails to compute hashes for some PNG files (compiler or linker issue?)
-void
-magic() {
-	cimg::exception_mode(3);
-	CImg<uint8_t> src;
-	src.load(NULL);
-}
-
 #ifdef __cplusplus
 }
 #endif
