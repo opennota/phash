@@ -1,3 +1,6 @@
+#define cimg_use_jpeg
+#define cimg_use_png
+#define cimg_use_tiff
 #include "c++/pHash/pHash.cpp"
 
 #ifdef __cplusplus

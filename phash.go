@@ -16,6 +16,7 @@ package phash
 
 /*
 #cgo CXXFLAGS: -O2 -Ic++/CImg -Ic++/pHash
+#cgo LDFLAGS: -ljpeg -lpng -ltiff
 
 #include <stdlib.h>
 
