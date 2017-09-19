@@ -369,9 +369,9 @@ int ph_dct_imagehash(const char* file,ulong64 &hash){
     if (src.spectrum() == 3){
         img = src.RGBtoYCbCr().channel(0).get_convolve(meanfilter);
     } else if (src.spectrum() == 4){
-	int width = img.width();
-        int height = img.height();
-        int depth = img.depth();
+	int width = src.width();
+        int height = src.height();
+        int depth = src.depth();
 	img = src.crop(0,0,0,0,width-1,height-1,depth-1,2).RGBtoYCbCr().channel(0).get_convolve(meanfilter);
     } else {
 	img = src.channel(0).get_convolve(meanfilter);
